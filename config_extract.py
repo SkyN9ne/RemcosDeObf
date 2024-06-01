@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import sys
 import pefile
 from arc4 import ARC4
